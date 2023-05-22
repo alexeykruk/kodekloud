@@ -40,7 +40,6 @@ sudo cp /tmp/nautilus.key /etc/ssl/certs/nautilus.key
             index  index.html;
         }
     }
-
 }
 
 sudo systemctl enable nginx
